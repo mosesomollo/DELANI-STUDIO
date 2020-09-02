@@ -1,0 +1,35 @@
+textarea::-webkit-input-placeholder {
+    transform: translateY(-0.25em);
+}
+
+#message-alert {
+    display: none;
+}
+
+.alert {
+    width: fit-content;
+    margin: auto;
+}
+
+footer .row {
+    width: 100%;
+    width: 70%;
+    padding: 30px 20px 10px 20px;
+    margin: auto;
+    justify-content: center;
+}
+
+footer img {
+    width: 45px;
+    /* padding: 5px; */
+}
+footer h5 {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+body {
+    background-color: coral;
+}
+  
+ 
